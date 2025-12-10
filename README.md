@@ -23,7 +23,3 @@ I have experience with a range of languages and data systems, focusing on perfor
 * **Performance Engineering:** Optimizing code paths in C++ and C# for low-latency systems.
 * **Data Modeling:** Architecting complex data structures across relational and NoSQL paradigms.
 
-### 🌐 Let's Connect!
-
-* **[Link to your LinkedIn Profile]**
-* **[Link to your personal website/portfolio]**
