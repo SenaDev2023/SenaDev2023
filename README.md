@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Chris Sena (@SenaDev2023)
+#  Hello! I'm Chris Sena (@SenaDev2023)
 
-## 💻 Full-Stack & Systems Developer
+##  Full-Stack & Systems Developer
 
 Software developer specializing in **full-stack** and **systems-level engineering** with a focus on building robust, scalable applications.
 
@@ -16,10 +16,8 @@ I have experience with a range of languages and data systems, focusing on perfor
 | **Databases** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-28a7e0?style=for-the-badge&logo=snowflake&logoColor=white) ![Azure Cosmos DB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 
 ---
-
-### 💡 Key Focus Areas
+###  Key Focus Areas
 
 * **Systems Architecture:** Designing and implementing highly available, scalable back-end services.
-* **Performance Engineering:** Optimizing code paths in C++ and C# for low-latency systems.
-* **Data Modeling:** Architecting complex data structures across relational and NoSQL paradigms.
+  
 
