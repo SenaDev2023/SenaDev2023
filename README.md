@@ -18,6 +18,6 @@ I have experience with a range of languages and data systems, focusing on perfor
 ---
 ###  Key Focus Areas
 
-* **Systems Architecture:** 
+* **Systems Architecture**
   
 
