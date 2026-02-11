@@ -18,6 +18,9 @@ I have experience with a range of languages and data systems, focusing on perfor
 | **Cloud** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 | **Build / Tooling** | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) |
 
+| **C++ Toolchains / Runtimes** | ![MSVC](https://img.shields.io/badge/MSVC-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![GCC](https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white) ![Clang](https://img.shields.io/badge/Clang-262D3A?style=for-the-badge&logo=llvm&logoColor=white) ![libstdc++](https://img.shields.io/badge/libstdc++-00427E?style=for-the-badge&logo=gnu&logoColor=white) ![libc++](https://img.shields.io/badge/libc++-262D3A?style=for-the-badge&logo=llvm&logoColor=white) |
+| **SPFx Build Toolchain** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) ![Yeoman](https://img.shields.io/badge/Yeoman-F37626?style=for-the-badge&logo=yeoman&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+
 
 
 
