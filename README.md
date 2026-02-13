@@ -6,15 +6,14 @@ Builds software that survives time, scale, and misuse.
 
 ---
 
-## Core Languages (Keep Forever)
-
+## Core Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## Build Systems (Non-Negotiable)
+## Build Systems
 
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![MSBuild](https://img.shields.io/badge/MSBuild-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -36,7 +35,7 @@ Builds software that survives time, scale, and misuse.
 
 ---
 
-## Databases (Few. Boring. Will Still Exist in 100 Years.)
+## Databases 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
