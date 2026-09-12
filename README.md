@@ -14,8 +14,11 @@ Full-stack software engineer contributing to OpenDDS, the open-source implementa
 
 ## Core Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
@@ -60,6 +63,14 @@ Full-stack software engineer contributing to OpenDDS, the open-source implementa
 ## Platforms & OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RTOS](https://img.shields.io/badge/RTOS-2C2C2A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+---
+
+## Protocols & Middleware
+![DDS](https://img.shields.io/badge/DDS-2C2C2A?style=for-the-badge)
+![Modbus](https://img.shields.io/badge/Modbus-2C2C2A?style=for-the-badge)
+![MAVLink](https://img.shields.io/badge/MAVLink-2C2C2A?style=for-the-badge)
 
 ---
 
