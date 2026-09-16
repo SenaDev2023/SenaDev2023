@@ -16,8 +16,8 @@ Full-stack software engineer contributing to OpenDDS, the open-source implementa
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
@@ -32,6 +32,7 @@ Full-stack software engineer contributing to OpenDDS, the open-source implementa
 ---
 
 ## C++ Toolchains & Runtimes
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![MSVC](https://img.shields.io/badge/MSVC-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Clang](https://img.shields.io/badge/Clang-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white)
@@ -45,6 +46,8 @@ Full-stack software engineer contributing to OpenDDS, the open-source implementa
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -57,6 +60,7 @@ Full-stack software engineer contributing to OpenDDS, the open-source implementa
 ## Scripting & Automation
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 
 ---
 
@@ -69,6 +73,7 @@ Full-stack software engineer contributing to OpenDDS, the open-source implementa
 
 ## Protocols & Middleware
 ![DDS](https://img.shields.io/badge/DDS-2C2C2A?style=for-the-badge)
+![ACE/TAO](https://img.shields.io/badge/ACE%2FTAO-2C2C2A?style=for-the-badge)
 ![Modbus](https://img.shields.io/badge/Modbus-2C2C2A?style=for-the-badge)
 ![MAVLink](https://img.shields.io/badge/MAVLink-2C2C2A?style=for-the-badge)
 
@@ -77,20 +82,17 @@ Full-stack software engineer contributing to OpenDDS, the open-source implementa
 ## Cloud & DevOps
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![SPFx](https://img.shields.io/badge/SPFx-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
 ---
 
 ## Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gerrit](https://img.shields.io/badge/Gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black)
 
 ---
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/netsena)
 
----
-
-## GitHub Stats
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenaDev2023&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenaDev2023&layout=compact)
