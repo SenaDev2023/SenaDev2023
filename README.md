@@ -1,12 +1,11 @@
 # Chris Sena (@SenaDev2023)
-
 ## Systems & Full-Stack Developer
 
 Builds software that survives time, scale, and misuse.
 
 **What I work on**
 
-- [OpenDDS](https://github.com/OpenDDS/OpenDDS): fixing unchecked CDR extraction in UpdateManager to make message deserialization more reliable
+- [OpenDDS](https://github.com/OpenDDS/OpenDDS): open-source implementation of DDS, the real-time messaging standard used in defense and aerospace systems. I fix message-parsing (CDR) bugs that can cause crashes or bad data.
 - [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) / MAVLink: open-source autonomy and drone communication
 - [libplctag](https://github.com/libplctag/libplctag): industrial equipment communication
 - **Day job**: internal business apps on SharePoint (SPFx, TypeScript, React)
