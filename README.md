@@ -1,15 +1,15 @@
 # Chris Sena (@SenaDev2023)
+
 ## Systems & Full-Stack Developer
+
 Builds software that survives time, scale, and misuse.
 
-Full-stack software engineer contributing to OpenDDS, the open-source implementation of the OMG (Object Management Group) Data Distribution Service (DDS) standard used in real-time, distributed systems across defense, aerospace, robotics, and industrial control. My work focuses on the UpdateManager component; auditing and fixing unchecked CDR (Common Data Representation) extraction paths that affect message deserialization reliability. I also maintain a rotating open-source track across PX4/MAVLink and libplctag to build broader depth in autonomy and industrial-protocol systems.
-
 **What I work on**
-- **[OpenDDS](https://github.com/OpenDDS/OpenDDS)**: improving reliability of real-time data distribution for distributed systems
-- **[PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) / MAVLink**: contributing to open-source autonomy and drone communication software
-- **[libplctag](https://github.com/libplctag/libplctag)**: improving industrial equipment communication and control software
-- **Day-to-day role**: building internal business applications and tools
 
+- [OpenDDS](https://github.com/OpenDDS/OpenDDS): fixing unchecked CDR extraction in UpdateManager to make message deserialization more reliable
+- [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) / MAVLink: open-source autonomy and drone communication
+- [libplctag](https://github.com/libplctag/libplctag): industrial equipment communication
+- **Day job**: internal business apps on SharePoint (SPFx, TypeScript, React)
 ---
 
 ## Core Languages
