@@ -25,7 +25,7 @@ Builds software that survives time, scale, and misuse.
 ![DDS](https://img.shields.io/badge/DDS-2C2C2A?style=for-the-badge)
 ![ACE/TAO](https://img.shields.io/badge/ACE%2FTAO-2C2C2A?style=for-the-badge)
 ![MAVLink](https://img.shields.io/badge/MAVLink-2C2C2A?style=for-the-badge)
-![Modbus](https://img.shields.io/badge/Modbus-2C2C2A?style=for-the-badge)
+
 
 ---
 
