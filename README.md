@@ -5,7 +5,7 @@ Builds software that survives time, scale, and misuse.
 
 **What I work on**
 
-- [OpenDDS](https://github.com/OpenDDS/OpenDDS): open-source implementation of DDS, the real-time messaging standard used in defense and aerospace systems. I fix message-parsing (CDR) bugs that can cause crashes or bad data, with merged fixes in the InfoRepo service.
+- [OpenDDS](https://github.com/OpenDDS/OpenDDS): open-source implementation of DDS, the real-time messaging standard used in defense and aerospace systems. I fix message-parsing (CDR) bugs that can cause crashes or bad data, with merged fixes in the InfoRepo service. (C++)
 - **Day job**: internal business apps on SharePoint (SPFx, TypeScript, React)
 
 ---
