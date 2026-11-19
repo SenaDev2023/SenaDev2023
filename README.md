@@ -10,7 +10,7 @@ Builds software that survives time, scale, and misuse.
 
 **How I got here**
 
-I don't have a CS degree. I studied journalism, then served as a Marine Corps radio chief and later in the Air Force, where I first ran into SQL. After that I worked at a water utility, running SCADA and tracing payments through COBOL on an IBM mainframe. I started writing code in 2022, moved from consulting automation (PowerShell, SQL, Power Platform) into full-stack work, and now spend my off-hours in C++ middleware. I learn by reading real codebases and getting fixes past real reviewers.
+I served as a Marine Corps radio chief and later in the Air Force, where I first ran into SQL. After that I worked at a water utility, running SCADA and tracing payments through COBOL on an IBM mainframe. I started writing code in 2022, moved from consulting automation (PowerShell, SQL, Power Platform) into full-stack work, and now spend my off-hours in C++ middleware. I learn by reading real codebases and getting fixes past real reviewers.
 
 ---
 
