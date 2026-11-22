@@ -5,7 +5,7 @@ Builds software that survives time, scale, and misuse.
  
 **Now**
  
-- **[OpenDDS](https://github.com/OpenDDS/OpenDDS)** (C++): hardening unchecked CDR message-parsing reads in real-time DDS middleware used in defense and aerospace. 3 PRs in 4 months, 2 merged.
+- **[OpenDDS](https://github.com/OpenDDS/OpenDDS)** (C++): hardening unchecked CDR message-parsing reads in real-time DDS middleware used in defense and aerospace. 
 - **Day job**: SharePoint business apps at hubley (SPFx, TypeScript, React).
 **Background**: USMC radio chief → USAF → water utility SCADA and COBOL mainframe → consulting automation → full-stack → C++ middleware. I learn by reading real codebases and getting fixes past real reviewers.
  
